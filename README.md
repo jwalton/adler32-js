@@ -1,3 +1,7 @@
+**NOTE** As of this writing, this is not as fast as [this implementation](https://github.com/BlueJeansAndRain/adler32), so you probably want to use that library instead.  I wrote this
+about a year ago, when there were no fast node.js adler32 implementations avaialble, and am only
+just now getting around to open sourcing it.  :)
+
 adler32-js
 ----------
 

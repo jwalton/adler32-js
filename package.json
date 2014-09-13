@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jwalton/adler32.git"
+    "url": "https://github.com/jwalton/dler32-js.git"
   },
   "keywords": [
     "checksum",

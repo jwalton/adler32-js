@@ -1,6 +1,6 @@
 {
   "name": "adler32-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/jwalton/adler32.git"
@@ -12,7 +12,7 @@
     "adler32",
     "adler-32"
   ],
-  "main": "./lib/adler32.coffee",
+  "main": "./lib/adler32",
   "devDependencies": {
     "coffee-script": "~1.7.1",
     "mocha": "~1.17.1",

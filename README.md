@@ -5,6 +5,8 @@ just now getting around to open sourcing it.  :)
 adler32-js
 ----------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jwalton/adler32-js.svg)](https://greenkeeper.io/)
+
 This is a coffee-script port of adler32.c from zlib, written by Mark Adler.  Port by Jason Walton.
 
 Installation
